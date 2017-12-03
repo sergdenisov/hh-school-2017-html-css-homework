@@ -1,0 +1,15 @@
+Unicorn is a PSD theme designed by Hasin Hayder (http://website.ofhas.in). You
+can use it for free in your personal and commercial projects for your clients. There is one
+exception though. You cannot submit this theme in any marketplace in any form of
+PSD, HTML or WP/Drupal CMS Theme
+
+
+Resources Used
+===============================================
+
+1. Photos from PicJumbo and Unsplash 
+2. Icons from free bundle available in retinaicon.com 
+3. Avatars from SquareHeads by Salih Gonenli (Took Permission
+About This Distribution) https://creativemarket.com/salihgonenli/shop 
+4. Human face from https://randomuser.me
+5. Hipster badges from Vecteezy.com 
